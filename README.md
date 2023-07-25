@@ -29,4 +29,4 @@ object **Hi** {
 
 
 <br>
-[linkedin]: [https://www.linkedin.com/in/hanne-jose-bayeh-villarreal-1a83a61b2/](https://www.linkedin.com/in/hannebayeh-soportetecnico/)https://www.linkedin.com/in/hannebayeh-soportetecnico/
+[linkedin]: https://www.linkedin.com/in/hannebayeh-soportetecnico/
